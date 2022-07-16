@@ -1,0 +1,14 @@
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\bin\Debug\netcoreapp3.1\labb1DesignPattern.exe
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\bin\Debug\netcoreapp3.1\labb1DesignPattern.deps.json
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\bin\Debug\netcoreapp3.1\labb1DesignPattern.runtimeconfig.json
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\bin\Debug\netcoreapp3.1\labb1DesignPattern.runtimeconfig.dev.json
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\bin\Debug\netcoreapp3.1\labb1DesignPattern.dll
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\bin\Debug\netcoreapp3.1\labb1DesignPattern.pdb
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\obj\Debug\netcoreapp3.1\labb1DesignPattern.csproj.AssemblyReference.cache
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\obj\Debug\netcoreapp3.1\labb1DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\obj\Debug\netcoreapp3.1\labb1DesignPattern.AssemblyInfoInputs.cache
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\obj\Debug\netcoreapp3.1\labb1DesignPattern.AssemblyInfo.cs
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\obj\Debug\netcoreapp3.1\labb1DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\obj\Debug\netcoreapp3.1\labb1DesignPattern.dll
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\obj\Debug\netcoreapp3.1\labb1DesignPattern.pdb
+C:\Users\sjobe\source\repos\labb1DesignPattern\labb1DesignPattern\obj\Debug\netcoreapp3.1\labb1DesignPattern.genruntimeconfig.cache

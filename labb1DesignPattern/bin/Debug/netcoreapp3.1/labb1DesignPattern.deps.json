@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "labb1DesignPattern/1.0.0": {
+        "runtime": {
+          "labb1DesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "labb1DesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
